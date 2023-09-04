@@ -7,7 +7,7 @@ const _revenueCredentials = r'''
 {
   "type": "service_account",
   "project_id": "m-s-innovation",
-  "private_key_id": "XXX",
+  "private_key_id": "XXXXX",
   "private_key": "XXX"
   "client_email": "m-s-innovation@m-s-innovation.iam.gserviceaccount.com",
   "client_id": "103383350141430022428",
